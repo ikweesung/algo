@@ -1,1 +1,1 @@
-implement algo by using c & c++.
+implement algo using c & c++.
